@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Xx-Hacker
-- 👀 I’m interested in Programmation and the hacking
-- 🌱 I’m currently learning a lanagage for database
+- 👋 Hi, I’m @ibrax12
+- 👀 I’m interested in Programmation and the cybersecurity
+- 🌱 I’m currently learning  assembly x86
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
